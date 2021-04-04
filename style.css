@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  color: white;
+  font-family: 'Londrina Solid', cursive;
+}
+html {
+  height: 100%;
+}
+body {
+  height: 100%;
+  background-image: url('bg-pic.jpeg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+div{
+  text-align: center;
+  position: relative;
+  top:50%;
+  transform: translateY(-50%);
+}
+h1{
+  font-size: 10vw;
+}
+p{
+  font-size: 5vw;
+}
