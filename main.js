@@ -5,6 +5,6 @@ window.onload = function(){
     p.innerHTML = "Redirecting you to my secondary portfolio...";
     setTimeout(()=>{
       window.location.replace("https://msn-05.github.io/portfolio");
-    },2000);
-  },3000)
+    },1000);
+  },1000)
 };
